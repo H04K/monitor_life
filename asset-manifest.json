@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/monitor_life/static/js/main.ac091c18.js",
+    "static/js/453.4ba03f24.chunk.js": "/monitor_life/static/js/453.4ba03f24.chunk.js",
+    "index.html": "/monitor_life/index.html",
+    "main.ac091c18.js.map": "/monitor_life/static/js/main.ac091c18.js.map",
+    "453.4ba03f24.chunk.js.map": "/monitor_life/static/js/453.4ba03f24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ac091c18.js"
+  ]
+}
